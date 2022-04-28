@@ -1,0 +1,2 @@
+C:\Users\offic\source\repos\hello\Debug\hello.exe
+C:\Users\offic\source\repos\Lab1\Debug\hello.exe
